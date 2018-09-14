@@ -1,0 +1,16 @@
+# Common
+numpy
+pandas
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+openpyxl
+xlrd
+# Testing
+pytest
+pytest-cov
+coverage
+# Static Analysis
+flake8
+black
